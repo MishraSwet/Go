@@ -19,7 +19,7 @@ func main() {
 	fmt.Println(c)
 
 	//uninitialized declared variables init-to 0 by default
-
+	//variable with_name this and with type this and is = value;
 	var fl float32
 	fmt.Println(fl)
 
