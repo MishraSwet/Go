@@ -22,3 +22,5 @@ func main() {
 		}
 	}
 }
+
+//there are no parenthesis involved in block statements in go!
